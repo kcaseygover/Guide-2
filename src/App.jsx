@@ -2,13 +2,9 @@ import React, {Component} from 'react';
 import uuid from 'node-uuid';
 import { Button } from 'react-bootstrap';
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
 
-    };
-  }
+class App extends Component {
+
 
 
   render() {
